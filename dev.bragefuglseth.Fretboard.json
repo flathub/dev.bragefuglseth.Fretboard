@@ -50,8 +50,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v5.3/fretboard-5.3.tar.xz",
-                    "sha256" : "65e574d9b7e426413eb77a845214e1787497f34dbeb64b93e8e1ca96c9b0c1a8"
+                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v5.4/fretboard-5.4.tar.xz",
+                    "sha256" : "13f0e73b307ef1a78532825ac8d552b1be14aceb4d125336e7aa0b9a7e38e7f9"
                 }
             ]
         }
