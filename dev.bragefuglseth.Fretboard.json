@@ -1,7 +1,7 @@
 {
     "app-id" : "dev.bragefuglseth.Fretboard",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "45",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -50,8 +50,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v5.4/fretboard-5.4.tar.xz",
-                    "sha256" : "13f0e73b307ef1a78532825ac8d552b1be14aceb4d125336e7aa0b9a7e38e7f9"
+                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v6.0/fretboard-6.0.tar.xz",
+                    "sha256" : "7d8afbc538e4977ba2d2117d368a01d00fa7414172c2905e5f39f62aa5622eb9"
                 }
             ]
         }
