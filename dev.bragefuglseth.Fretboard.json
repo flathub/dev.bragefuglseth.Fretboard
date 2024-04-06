@@ -50,7 +50,7 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v6.0/fretboard-6.1.tar.xz",
+                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v6.1/fretboard-6.1.tar.xz",
                     "sha256" : "3704923871141885dfb66696aab58f764120f132d23dc08b02072d15f74a8691"
                 }
             ]
