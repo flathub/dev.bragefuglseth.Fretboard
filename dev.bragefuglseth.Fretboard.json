@@ -45,13 +45,14 @@
             "builddir" : true,
             "buildsystem" : "meson",
             "config-opts" : [
-                "-Dprofile=default"
+                "-Dprofile=default",
+                "-Dsandboxed=true"
             ],
             "sources" : [
                 {
                     "type" : "git",
                     "url" : "https://github.com/bragefuglseth/fretboard.git",
-                    "tag" : "v7.0",
+                    "tag" : "v7.0-fixed",
                     "commit" : "56562128cf507747eb106c4fb1705980d5cf6c16"
                 },
                 "cargo-sources.json"
