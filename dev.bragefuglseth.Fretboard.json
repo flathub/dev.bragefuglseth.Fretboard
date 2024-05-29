@@ -45,14 +45,17 @@
             "builddir" : true,
             "buildsystem" : "meson",
             "config-opts" : [
-                "-Dprofile=default"
+                "-Dprofile=default",
+                "-Dsandboxed=true"
             ],
             "sources" : [
                 {
-                    "type" : "archive",
-                    "url" : "https://github.com/bragefuglseth/fretboard/releases/download/v6.1/fretboard-6.1.tar.xz",
-                    "sha256" : "3704923871141885dfb66696aab58f764120f132d23dc08b02072d15f74a8691"
-                }
+                    "type" : "git",
+                    "url" : "https://github.com/bragefuglseth/fretboard.git",
+                    "tag" : "v7.0-fixed",
+                    "commit" : "824f407dc08f6ef24315a90acc1c9eea334a60e5"
+                },
+                "cargo-sources.json"
             ]
         }
     ]
