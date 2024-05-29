@@ -53,7 +53,7 @@
                     "type" : "git",
                     "url" : "https://github.com/bragefuglseth/fretboard.git",
                     "tag" : "v7.0-fixed",
-                    "commit" : "56562128cf507747eb106c4fb1705980d5cf6c16"
+                    "commit" : "824f407dc08f6ef24315a90acc1c9eea334a60e5"
                 },
                 "cargo-sources.json"
             ]
