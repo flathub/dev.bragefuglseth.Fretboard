@@ -1,7 +1,7 @@
 {
     "app-id" : "dev.bragefuglseth.Fretboard",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -36,7 +36,7 @@
 	    {
 	      "type": "git",
 	      "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-	      "tag": "v0.14.0"
+	      "tag": "v0.16.0"
 	    }
 	  ]
 	},
@@ -52,8 +52,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/bragefuglseth/fretboard.git",
-                    "tag" : "v8.0",
-                    "commit" : "708e988f28cbdac2faf10325cca389a56cc2b00a"
+                    "tag" : "v9.0",
+                    "commit" : "0afedc587af2095506bf014a4416d0bb52cab6aa"
                 },
                 "cargo-sources.json"
             ]
