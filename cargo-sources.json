@@ -730,27 +730,27 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/libadwaita/libadwaita-0.7.0.crate",
-        "sha256": "2ff9c222b5c783729de45185f07b2fec2d43a7f9c63961e777d3667e20443878",
-        "dest": "cargo/vendor/libadwaita-0.7.0"
+        "url": "https://static.crates.io/crates/libadwaita/libadwaita-0.7.2.crate",
+        "sha256": "500135d29c16aabf67baafd3e7741d48e8b8978ca98bac39e589165c8dc78191",
+        "dest": "cargo/vendor/libadwaita-0.7.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"2ff9c222b5c783729de45185f07b2fec2d43a7f9c63961e777d3667e20443878\", \"files\": {}}",
-        "dest": "cargo/vendor/libadwaita-0.7.0",
+        "contents": "{\"package\": \"500135d29c16aabf67baafd3e7741d48e8b8978ca98bac39e589165c8dc78191\", \"files\": {}}",
+        "dest": "cargo/vendor/libadwaita-0.7.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/libadwaita-sys/libadwaita-sys-0.7.0.crate",
-        "sha256": "1c44d8bdbad31d6639e1f20cc9c1424f1a8e02d751fc28d44659bf743fb9eca6",
-        "dest": "cargo/vendor/libadwaita-sys-0.7.0"
+        "url": "https://static.crates.io/crates/libadwaita-sys/libadwaita-sys-0.7.2.crate",
+        "sha256": "6680988058c2558baf3f548a370e4e78da3bf7f08469daa822ac414842c912db",
+        "dest": "cargo/vendor/libadwaita-sys-0.7.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"1c44d8bdbad31d6639e1f20cc9c1424f1a8e02d751fc28d44659bf743fb9eca6\", \"files\": {}}",
-        "dest": "cargo/vendor/libadwaita-sys-0.7.0",
+        "contents": "{\"package\": \"6680988058c2558baf3f548a370e4e78da3bf7f08469daa822ac414842c912db\", \"files\": {}}",
+        "dest": "cargo/vendor/libadwaita-sys-0.7.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
